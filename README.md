@@ -16,3 +16,10 @@ inclusive planilha comparativa de técnicas
 <img src="clustering_models_SmoothGrad_novo.png" width="600" alt="Clustering models SmoothGrad">
 </p>
 
+
+<p align="center">
+<img src="gradcam_result.png" width="600" alt="Inferencia - imagens">
+</p>
+
+
+
