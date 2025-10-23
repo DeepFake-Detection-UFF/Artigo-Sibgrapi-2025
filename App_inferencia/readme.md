@@ -29,27 +29,27 @@ O programa executou em computador comum, sem GPU
 
 
 <p align="center">
-<img src="captura teste1.jpg" width="600" alt="XAI hit">
+<img src="captura teste1.jpg.png" width="600" alt="XAI hit">
 </p>
 
 <p align="center">
-<img src="captura teste2.jpg" width="600" alt="XAI hit">
+<img src="captura teste2.jpg.png" width="600" alt="XAI hit">
 </p>
 
 <p align="center">
-<img src="captura teste3.jpg" width="600" alt="XAI hit">
+<img src="captura teste3.png" width="600" alt="XAI hit">
 </p>
 
 <p align="center">
-<img src="captura teste4.jpg" width="600" alt="XAI hit">
+<img src="captura teste4.jpg.png" width="600" alt="XAI hit">
 </p>
 
 <p align="center">
-<img src="captura teste5.jpg" width="600" alt="XAI hit">
+<img src="captura teste5.jpg.png" width="600" alt="XAI hit">
 </p>
 
 <p align="center">
-<img src="captura teste6.jpg" width="600" alt="XAI hit">
+<img src="captura teste6.png" width="600" alt="XAI hit">
 </p>
 
 <p align="center">
