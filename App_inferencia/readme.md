@@ -58,15 +58,26 @@ O programa executou em computador comum, sem GPU
 
 
 <p align="center">
-<img src="frame_0001_orig.png" width="600" alt="GRADCam do frame ">
+<img src="frame_0001_orig.png" width="600" alt="Original ">
+</p>
+<p align="center">
+<img src="frame_0001_gradcam.png" width="600" alt="GRADCam do frame">
 </p>
 <p align="center">
 <img src="frame_0001_slic.png" width="600" alt="SLIC do frame">
 </p>
 
+
 <p align="center">
 <img src="frame_0002_orig.png" width="600" alt="GRADCam do frame ">
 </p>
+
+<p align="center">
+<img src="frame_0002_gradcam.png" width="600" alt="GRADCam do frame">
+</p>
+
+
+
 <p align="center">
 <img src="frame_0002_slic.png" width="600" alt="SLIC do frame">
 </p>
@@ -74,6 +85,11 @@ O programa executou em computador comum, sem GPU
 <p align="center">
 <img src="frame_0003_orig.png" width="600" alt="GRADCam do frame ">
 </p>
+
+<p align="center">
+<img src="frame_0003_gradcam.png" width="600" alt="GRADCam do frame">
+</p>
+
 <p align="center">
 <img src="frame_0003_slic.png" width="600" alt="SLIC do frame">
 </p>
@@ -81,6 +97,12 @@ O programa executou em computador comum, sem GPU
 <p align="center">
 <img src="frame_0004_orig.png" width="600" alt="GRADCam do frame ">
 </p>
+
+<p align="center">
+<img src="frame_0004_gradcam.png" width="600" alt="GRADCam do frame">
+</p>
+
+
 <p align="center">
 <img src="frame_0004_slic.png" width="600" alt="SLIC do frame">
 </p>
@@ -88,6 +110,10 @@ O programa executou em computador comum, sem GPU
 <p align="center">
 <img src="frame_0005_orig.png" width="600" alt="GRADCam do frame ">
 </p>
+<p align="center">
+<img src="frame_0005_gradcam.png" width="600" alt="GRADCam do frame">
+</p>
+
 <p align="center">
 <img src="frame_0005_slic.png" width="600" alt="SLIC do frame">
 </p>
