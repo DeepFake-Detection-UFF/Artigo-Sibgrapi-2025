@@ -67,6 +67,11 @@ O programa executou em computador comum, sem GPU
 <img src="frame_0001_slic.png" width="600" alt="SLIC do frame">
 </p>
 
+<p align="center">
+<img src="frame_0001_smooth.png" width="600" alt="SLIC do frame">
+</p>
+
+
 
 <p align="center">
 <img src="frame_0002_orig.png" width="600" alt="GRADCam do frame ">
@@ -83,6 +88,11 @@ O programa executou em computador comum, sem GPU
 </p>
 
 <p align="center">
+<img src="frame_0002_smooth.png" width="600" alt="SLIC do frame">
+</p>
+
+
+<p align="center">
 <img src="frame_0003_orig.png" width="600" alt="GRADCam do frame ">
 </p>
 
@@ -93,6 +103,11 @@ O programa executou em computador comum, sem GPU
 <p align="center">
 <img src="frame_0003_slic.png" width="600" alt="SLIC do frame">
 </p>
+
+<p align="center">
+<img src="frame_0003_smooth.png" width="600" alt="SLIC do frame">
+</p>
+
 
 <p align="center">
 <img src="frame_0004_orig.png" width="600" alt="GRADCam do frame ">
@@ -106,6 +121,12 @@ O programa executou em computador comum, sem GPU
 <p align="center">
 <img src="frame_0004_slic.png" width="600" alt="SLIC do frame">
 </p>
+
+<p align="center">
+<img src="frame_0004_smooth.png" width="600" alt="SLIC do frame">
+</p>
+
+
 
 <p align="center">
 <img src="frame_0005_orig.png" width="600" alt="GRADCam do frame ">
